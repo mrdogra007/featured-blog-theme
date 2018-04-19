@@ -1,0 +1,22 @@
+/* 
+CSS Style sheet
+Ver. 1.0
+Print ready and CSS ready to optimize
+Author: Nishant Dogra
+Initial built: 04-02-2018
+Updated: 05-02-2018
+*/
+
+@media (min-width: 768px) {
+  .h-md-250 { height: 250px; }
+  .display-4 {font-size: 3rem; }
+}
+
+@media (min-width: 40em) {
+  .blog-title {font-size: 3.5rem; } 
+}
+
+@media (max-width: 900px) {
+	.nav-scroller, .subscribe-header-cta { display: none; }
+	.menu-modal { display: block; }
+}
