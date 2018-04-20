@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Creator: Nishant Dogra
+
+https://twitter.com/mrdogra007
+
+https://github.com/mrdogra007
+
+https://www.behance.net/mrdogra007
+
+http://codepen.io/mrdogra007
+
+Copyright and license Copyright 2017-2018.
