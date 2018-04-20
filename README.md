@@ -1,4 +1,7 @@
-### Live Preview
+## Live Preview
+```markdown
+Modern, Simple, Clean, Bootstrap blog. Easy to use and implement. If you are looking for full featured theme ask me!
+
 https://mrdogra007.github.io/featured-blog-theme/
 
 ## Welcome to GitHub Pages
