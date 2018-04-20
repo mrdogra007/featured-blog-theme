@@ -1,4 +1,4 @@
-#### Live Preview
+### Live Preview
 https://mrdogra007.github.io/featured-blog-theme/
 
 ## Welcome to GitHub Pages
