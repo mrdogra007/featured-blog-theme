@@ -1,3 +1,6 @@
+#### Live Preview
+https://mrdogra007.github.io/featured-blog-theme/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mrdogra007/featured-blog-theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
